@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/154c5348-ce62-4424-8e50-105af03743b3/microsoft.web/sites/subscriptions/154c5348-ce62-4424-8e50-105af03743b3/resourceGroups/Kimi671/providers/Microsoft.Web/sites/Kimi671",
+    "appService.deploySubpath": "."
+}
